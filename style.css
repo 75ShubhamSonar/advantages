@@ -196,6 +196,9 @@
     height:60px;
     background-color:#50B498
 }
+    .navi h3{
+        font-size:2.50rem;
+    }
     .flex{
         flex-direction: column;
     }
