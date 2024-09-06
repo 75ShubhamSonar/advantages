@@ -199,6 +199,39 @@
     .flex{
         flex-direction: column;
     }
+
+
+.outer h4{
+    display:inline;
+    font-weight: 70;
+    font-size: 2.50rem;
+    }
+
+.outer1 h4{
+    display:inline;
+    font-weight: 70;
+    font-size: 2.50rem;
+    }
+    .outer2 h4{
+    display:inline;
+    font-weight: 70;
+    font-size: 2.50rem;
+    }
+    .outer3 h4{
+    display:inline;
+    font-weight: 70;
+    font-size: 2.50rem;
+    }
+    .outer4 h4{
+    display:inline;
+    font-weight: 70;
+    font-size: 2.50rem;
+    }
+    .outer5 h4{
+    display:inline;
+    font-weight: 70;
+    font-size: 2.50rem;
+    }
     .outer-img{
         width:960px;
         height:500px;
