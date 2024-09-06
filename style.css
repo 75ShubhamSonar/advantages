@@ -21,7 +21,7 @@
     
     }
     .margin{
-        margin-top: 30px;
+        margin-top: 50px;
     }
     .bar h3{
     text-align:center;
@@ -200,37 +200,54 @@
         flex-direction: column;
     }
 
-
+. outer{
+    font-size:4rem;
+}
+ . outer1{
+    font-size:4rem;
+}
+ . outer2{
+    font-size:4rem;
+}
+. outer3{
+    font-size:4rem;
+} 
+. outer4{
+    font-size:4rem;
+} 
+. outer5{
+    font-size:4rem;
+} 
 .outer h4{
     display:inline;
     font-weight: 70;
-    font-size: 2.50rem;
+    font-size: 3rem;
     }
 
 .outer1 h4{
     display:inline;
     font-weight: 70;
-    font-size: 2.50rem;
+    font-size: 3rem;
     }
     .outer2 h4{
     display:inline;
     font-weight: 70;
-    font-size: 2.50rem;
+    font-size: 3rem;
     }
     .outer3 h4{
     display:inline;
     font-weight: 70;
-    font-size: 2.50rem;
+    font-size: 3rem;
     }
     .outer4 h4{
     display:inline;
     font-weight: 70;
-    font-size: 2.50rem;
+    font-size: 3rem;
     }
     .outer5 h4{
     display:inline;
     font-weight: 70;
-    font-size: 2.50rem;
+    font-size: 3rem;
     }
     .outer-img{
         width:960px;
